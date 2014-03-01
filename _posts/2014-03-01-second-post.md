@@ -3,6 +3,7 @@ published: true
 layout: post
 title: Website Update			
 author: Chris MacKay
+comments: true
 ---
 
 I have been quickly working on making a slightly more useful homepage for med.hbsgrupos.org.

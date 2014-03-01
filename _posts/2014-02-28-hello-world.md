@@ -3,6 +3,7 @@ published: true
 layout: post
 title: Hello World
 author: Chris MacKay
+comments: true
 ---
 
 
