@@ -24,10 +24,12 @@ title: HBS Grupos Medical Collaboration Home Page
         	</div>
         </div>
 {% for post in site.posts %}
+	<a href="{{ post.url | remove_first:'/'}}">
 	<div class="panel panel-default">
+		
 		<div class="panel-heading">
 			<strong class="panel-title">
-				<a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
+				{{ post.title }}
 			</strong>
 			&nbsp; | &nbsp; {{post.date | date_to_string}} by <em>{{post.author}}</em>
 		</div>
@@ -37,6 +39,7 @@ title: HBS Grupos Medical Collaboration Home Page
 		</p>
   		</div>
 	</div> 
+	</a>
 {% endfor %}
 	<div class="modal fade" id="addUpdate" tabindex="-1" role="dialog" aria-labelledby="addUpdate" aria-hidden="true">
   <div class="modal-dialog">
