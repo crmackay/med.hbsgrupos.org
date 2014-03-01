@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: one more time
+author: Olaf
 ---
 
 ## This is a sample post
