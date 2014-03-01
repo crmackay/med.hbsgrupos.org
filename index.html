@@ -18,7 +18,7 @@ title: HBS Grupos Medical Collaboration Home Page
 	{% for post in site.posts %}
 		<div class="panel-heading">
 			<strong class="panel-title">
-				<a href="{{ post.url }}">{{ post.title }}</a>
+				<a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
 			</strong>
 			&nbsp; | &nbsp; {{post.date | date_to_string}} by <em>{{post.author}}</em>
 		</div>
