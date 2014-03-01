@@ -1,5 +1,11 @@
 {% include header.html %}
 			<div class="col-md-7 col-md-pull-4">
+			<h2>
+				{{post.title}}
+			</h2>
+			<p>
+				{{post.date | date_to_string}} by <em>{{post.author}}</em>
+			</p>
 				{{ content }}
 			</div>
 		</div><!-- /.container -->
