@@ -15,22 +15,15 @@ title: HBS Grupos Medical Collaboration Home Page
         	Updates:
         </h2>
 <div class="panel panel-default">
-	<div class="panel-heading">
-		<h3 class="panel-title">
-			Post Title
-		</h3>
-		Post Date, Post Author
- 	</div>
-	<div class="panel-body">
-		Post - first few lines Content
-  	</div>
-  	<div class="panel-heading">
-		<h3 class="panel-title">
-			Post Title
-		</h3>
-		Post Date, Post Author
- 	</div>
-	<div class="panel-body">
-		Post - first few lines Content
-  	</div>
+	{% for posts in site.posts %}
+		<div class="panel-heading">
+			<h3 class="panel-title">
+				<a href="{{ post.url }}">{{ post.title }}</a>
+			</h3>
+			{{post.date | date_to_string}}|{{post.author}}
+ 		</div>
+		<div class="panel-body">
+			{{post.content | strip_html | truncatewords:75}}
+  		</div>
+  	{% endfor %}
 </div>   
