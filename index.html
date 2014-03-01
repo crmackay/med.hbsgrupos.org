@@ -14,8 +14,8 @@ title: HBS Grupos Medical Collaboration Home Page
         <h2>
         	Updates:
         </h2>
-<div class="panel panel-default">
-	{% for post in site.posts %}
+{% for post in site.posts %}
+	<div class="panel panel-default">
 		<div class="panel-heading">
 			<strong class="panel-title">
 				<a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
@@ -27,5 +27,6 @@ title: HBS Grupos Medical Collaboration Home Page
 			{{post.content | strip_html | truncatewords:40}}
 		</p>
   		</div>
-  	{% endfor %}
-</div>   
+	</div> 
+{% endfor %}
+  
