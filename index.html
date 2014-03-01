@@ -23,9 +23,8 @@ title: HBS Grupos Medical Collaboration Home Page
 			&nbsp; | &nbsp; {{post.date | date_to_string}} by <em>{{post.author}}</em>
 		</div>
 		<div class="panel-body">
-			{{post.date | date_to_string}} by {{post.author}}
 		<p>
-			{{post.content | strip_html | truncatewords:75}}
+			{{post.content | strip_html | truncatewords:40}}
 		</p>
   		</div>
   	{% endfor %}
