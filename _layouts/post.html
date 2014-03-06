@@ -4,7 +4,7 @@
 			{{page.title}}
 		</h2>
 		<p>
-			{{page.date | date_to_string}} by <em>{{page.author}}</em>
+			{{page.date | date: "%d %B %Y"}} by <em>{{page.author}}</em>
 		</p>
 		<hr />
 			{{ content }}
