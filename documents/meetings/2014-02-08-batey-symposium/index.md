@@ -28,7 +28,7 @@ Worcester, MA
 | Medicines for Humanities projects in the DR                          | Amelia Brandt                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=Da6a-_olwZY) |
 | Medical Students for Haiti                                           | Victoria Winslow              | [Presentation]() | [Video](http://youtu.be/mlsXZvwc8N4)                |
 | Hypertension on the Bateys                                           | Tammy Kear                    | [Presentation]() | [Video](http://www.youtube.com/watch?v=vffp-Kk70xY) |
-| A Long-Term Perspective                                              | Chris Russell                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=FmIDwWMmI1o) |
+| A Long-Term Perspective                                              | Chris Russell, Brendan Wong   | [Presentation]() | [Video](http://www.youtube.com/watch?v=FmIDwWMmI1o) |
 | UTMB - Collaborating to strengthen community-based research capacity | Matthew Dacso                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=1111FPA-ubU) |
 | Quality Improvement:  the Batey-to-Hospital Referral Process         | Caitlin Fogarty               | [Presentation]() | [Video](http://www.youtube.com/watch?v=-Z13J-eolJI) |
 
