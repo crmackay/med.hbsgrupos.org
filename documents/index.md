@@ -7,7 +7,7 @@ title: Documents
 
 ###Working Groups Meetings
 
-_HTN Collaboration Working Group_ 
+*HTN Collaboration Working Group* 
 
 - Time and Date: To Be Announced
 
@@ -22,6 +22,6 @@ _HTN Collaboration Working Group_
 
 ##Materials from Past Meetings
 
-1. Batey Symposium - 08 Feb 2014
+1. [Batey Symposium - 08 Feb 2014](2014-02-08-batey-symposium/)
 
-1. Other Past Meetings
+1. Other Past Meetings *coming soon*

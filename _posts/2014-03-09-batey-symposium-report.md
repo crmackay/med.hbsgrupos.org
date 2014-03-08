@@ -7,11 +7,11 @@ comments: true
 categories: update meeting symposium
 ---
 
-A report on the La Romana Batey Med Syposium on Feb 8th, 2014 in Worcester, MA
+## A report on the La Romana Batey Med Syposium on Feb 8th, 2014 in Worcester, MA
 
-Prepared by Lawrence Loh, MD, MPH, CCFP, FRCPC, Christopher MacKay, and Elizabeth Townsley
+*Prepared by Lawrence Loh, MD, MPH, CCFP, FRCPC, Christopher MacKay, and Elizabeth Townsley*
 
-## Background
+### Background
 
 February 8, 2014 saw the first breakthrough result of nearly three years of efforts to develop a collaborative community of providers and local leaders around the provision of healthcare, construction and health promotion efforts to batey communities in La Romana. Representatives of several short-term volunteer teams that work with Hospital el Buen Samaritano attended a full-day symposium in Worcester, Massachusetts. 
 
@@ -37,7 +37,7 @@ Represented organizations included:
 
 The need and case for collaboration was made clear throughout the day, with a wide range of presentations that enabled information exchange and discussions of the issues in providing care in the bateyes that might serve as a launching pad for collaboration. This report aims to provide background on the origins and history of the collaborative process, review the presentations and discussions associated during the symposium, and discuss next steps to be taken by the groups in attendance.
 
-## History and context
+### History and context
 
 Work in the bateyes of La Romana by visiting North American teams together with the Hospital el Buen Samaritano l has been occurring since the 1980s. At present, nearly 30 teams are involved in the provision of mobile medical clinic care and construction assistance in La Romana. Nearly 13-14 of those specific teams were represented at the meeting on February 10, along with Hospital El Buen Samaritano leadership and other external experts and new partners who are entering the La Romana ecosystem. This represents a critical mass and tremendous opportunity to build on the great work being done by teams individually. 
 
@@ -45,7 +45,7 @@ While previous symposia have been held, the first steps towards developing this 
 
 This initial discussion led to the planning and execution of a batey health symposium that took place in October 2012 at the University of Massachusetts Medical School in Worcester, Massachusetts that was attended by members from The 53rd Week, First Baptist Church Wallingford, and the University of Massachusetts Memorial Hospital. The timing of this meeting coincided with a farewell celebration for Kristy Engel, a long-serving nurse in La Romana who was moving to a new position. 
 
-## Conference sessions
+### Conference sessions
 
 Rick North, a professional fundraiser, provided the first session and discussed potential means by which a collaborative model could allow the deployment of various fundraising mechanisms to better support care and development work in La Romana. He highlighted the rise of baby boomers and the opportunity that arises from their significant potential source of individual donor income, and reviewed the Gates Foundation grant process. North also introduced the Salesforce.com platform, a potential tool for tracking data and sharing information between teams, and reiterated the importance of collecting data on joint projects to demonstrate the value of collaboration and to continue to collectively tailor our teams’ work in the bateyes towards scaling up for additional funding.
 
@@ -59,7 +59,7 @@ We also enjoyed excellent presentations shared by current volunteer team leaders
 
 Two students from McMaster University in Canada, Chris Russell and Brendan Wong, presented their experiences and thoughts on a study-abroad semester that they spent working with the Hospital el Buen Samaritano, and provided data on sexual knowledge adequacy among adolescents. Matthew Dacso from the University of Texas Medical Branch described some of the wider research initiatives being developed by his team to centralize and standardize research work in La Romana. Finally, Caitlin Fogarty from the University of Massachusetts highlighted issues with the batey-clinic-to-hospital referral system, particularly when a referral arose from visiting medical teams; this led to a spirited discussion and questions about how to improve and ensure that patients requiring referral services would receive the appropriate care.
 
-## Conclusions and next steps
+### Conclusions and next steps
 
 The presentations at the symposium provided the groundwork for discussions on the collaboration; all teams present agreed on the need to pool information and resources and discussed the best way to move forward. A web platform, under development for some time, was proposed as one possible contact mechanism, at least to ensure that scheduling and availability for teams visiting would be tracked. 
 

@@ -7,11 +7,14 @@ comments: true
 categories: update meeting materials symposium
 ---
 
-# Batey Medicine Sympsium 2014
+# Batey Medicine Symposium 2014
 
 08-Feb-2014
 University of Massachusetts Medical School
 Worcester, MA
+
+
+## Videos and Presentations
 
 |                                Title                                 |         Presenter(s)          |                  |                                                     |
 |----------------------------------------------------------------------|-------------------------------|------------------|-----------------------------------------------------|
@@ -26,3 +29,16 @@ Worcester, MA
 | A Long-Term Perspective                                              | Chris Russell                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=FmIDwWMmI1o) |
 | UTMB - Collaborating to strengthen community-based research capacity | Matthew Dacso                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=1111FPA-ubU) |
 | Quality Improvement:  the Batey-to-Hospital Referral Process         | Caitlin Fogarty               | [Presentation]() | [Video](http://www.youtube.com/watch?v=-Z13J-eolJI) |
+
+## Plans and Next Steps:
+
+- development of a hypertension working group *link to webpage coming soon*
+	- Being one of the most prevalent yet intractable conditions afflicting batey residents, hypertension is a chronic disease that will require a signifcant collaboration between providers and the development of community-driven systems of care. For this reason, treating this important chronic disease will serve as a starting-point for our collaborative efforts.
+	- if you woulld like to join this working group, please let us know!
+	- we hope to establish more working groups in the future, but this will be the first, so stay tuned
+- plan for a bi-monthly conference calls
+	- we will have single-topic teleconference discussions, starting in May 2014 with a presentation from the *Hypertension Working Group*
+- 2015 Batey Medicine Symposium
+	- the 2014 edition was such a success, we think it should be a regular event! We hope to see it grow and invite anyone and everyone to participate!
+	- if you are interesting in hosting, planning, or helping our in the development of this meeting just let us know!
+	
