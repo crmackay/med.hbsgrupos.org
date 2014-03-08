@@ -35,7 +35,11 @@ title: HBS Grupos Medical Collaboration Home Page
 		</div>
 		<div class="panel-body">
 		<p>
-			{{post.excerpt}}
+			{{post.excerpt|strip_html}}
+			
+			<br />
+			
+			&hellip; <em>read more</em>
 		</p>
   		</div>
 	</div> 

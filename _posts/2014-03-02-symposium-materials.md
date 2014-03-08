@@ -6,4 +6,4 @@ author: Chris MacKay
 comments: true
 ---
 
-Here is where I will announce the placement of the symposium presentations and videos (once they are ready...almost done)
+Materials &mdash; presentations and videos &mdash; have been posted. You can find them in the [here](../../../documents/meetings/2014-02-08-batey-symposium/)
