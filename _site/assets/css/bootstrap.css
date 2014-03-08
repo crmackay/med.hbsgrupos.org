@@ -176,14 +176,14 @@ textarea {
 optgroup {
   font-weight: bold;
 }
-table {
+/**table {
   border-spacing: 0;
   border-collapse: collapse;
 }
 td,
 th {
   padding: 0;
-}
+}**/
 @media print {
   * {
     color: #000 !important;

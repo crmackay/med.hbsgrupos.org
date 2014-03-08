@@ -1,13 +1,6 @@
 {% include header1.html %}
 {% include header2.html %}
 	<div class="col-md-7 col-md-pull-4">
-		<h2>
-			{{page.title}}
-		</h2>
-		<p>
-			{{page.date | date: "%d %B %Y"}} by <em>{{page.author}}</em>
-		</p>
-		<hr />
 			{{ content }}
 		<hr />
 		{% if page.comments %}
