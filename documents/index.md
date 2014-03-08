@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Documents
 ---
 
@@ -22,6 +22,6 @@ title: Documents
 
 ##Materials from Past Meetings
 
-1. [Batey Symposium - 08 Feb 2014](2014-02-08-batey-symposium/)
+1. [Batey Symposium - 08 Feb 2014](meetings/2014-02-08-batey-symposium/)
 
 1. Other Past Meetings *coming soon*
