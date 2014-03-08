@@ -7,6 +7,8 @@ comments: true
 categories: update meeting symposium
 ---
 
+A report on the La Romana Batey Med Syposium on Feb 8th, 2014 in Worcester, MA
+
 Prepared by Lawrence Loh, MD, MPH, CCFP, FRCPC, Christopher MacKay, and Elizabeth Townsley
 
 ## Background
@@ -57,7 +59,7 @@ We also enjoyed excellent presentations shared by current volunteer team leaders
 
 Two students from McMaster University in Canada, Chris Russell and Brendan Wong, presented their experiences and thoughts on a study-abroad semester that they spent working with the Hospital el Buen Samaritano, and provided data on sexual knowledge adequacy among adolescents. Matthew Dacso from the University of Texas Medical Branch described some of the wider research initiatives being developed by his team to centralize and standardize research work in La Romana. Finally, Caitlin Fogarty from the University of Massachusetts highlighted issues with the batey-clinic-to-hospital referral system, particularly when a referral arose from visiting medical teams; this led to a spirited discussion and questions about how to improve and ensure that patients requiring referral services would receive the appropriate care.
 
-##Conclusions and next steps
+## Conclusions and next steps
 
 The presentations at the symposium provided the groundwork for discussions on the collaboration; all teams present agreed on the need to pool information and resources and discussed the best way to move forward. A web platform, under development for some time, was proposed as one possible contact mechanism, at least to ensure that scheduling and availability for teams visiting would be tracked. 
 
