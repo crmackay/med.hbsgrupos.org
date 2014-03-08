@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: page
 title: 2014 Batey Medicine Symposium Materials
 author: Chris MacKay
 comments: true
