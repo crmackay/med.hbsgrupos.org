@@ -1,6 +1,6 @@
 ---
 published: true
-layout: page
+layout: post
 title: Symposium Report
 author: Chris MacKay
 comments: true
