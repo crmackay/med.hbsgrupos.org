@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Symposium Report
-author: Chris MacKay
+author: Lawerence Loh
 comments: true
 categories: update meeting symposium
 ---
