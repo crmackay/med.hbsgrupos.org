@@ -34,13 +34,13 @@ Worcester, MA
 
 ## Plans and Next Steps:
 
-1. development of a hypertension working group *(link to webpage coming soon)*
-	- Being one of the most prevalent yet intractable conditions afflicting batey residents, hypertension is a chronic disease that will require a signifcant collaboration between providers and the development of community-driven systems of care. For this reason, treating this important chronic disease will serve as a starting-point for our collaborative efforts.
-	- if you woulld like to join this working group, please let us know!
-	- we hope to establish more working groups in the future, but this will be the first, so stay tuned
-1. plan for a bi-monthly conference calls
-	- we will have single-topic teleconference discussions, starting in May 2014 with a presentation from the *Hypertension Working Group*
+1. Development of a hypertension working group *(link to webpage coming soon)*
+	- Being one of the most prevalent yet intractable conditions afflicting batey residents, hypertension is a chronic disease that will require a significant collaboration between providers and the development of community-driven systems of care. For this reason, treating this important chronic disease will serve as a starting-point for our collaborative efforts.
+	- If you woulld like to join this *working group*, please let us know!
+	- We hope to establish more *working groups* in the future, but this will be the first, so stay tuned
+1. Plan for a bi-monthly conference calls
+	- We will have single-topic teleconference discussions, starting in May 2014 with a presentation from the *Hypertension Working Group*
 1. 2015 Batey Medicine Symposium
-	- the 2014 edition was such a success, we think it should be a regular event! We hope to see it grow and invite anyone and everyone to participate!
-	- if you are interesting in hosting, planning, or helping out in the development of this meeting just let us know!
+	- The 2014 edition was such a success, we think it should be a regular event! We hope to see it grow and invite anyone and everyone to participate!
+	- If you are interesting in hosting, planning, or helping out in the development of this meeting just let us know!
 	
