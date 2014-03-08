@@ -6,4 +6,4 @@ author: Chris MacKay
 comments: true
 ---
 
-Materials &mdash; presentations and videos &mdash; have been posted. You can find them in the [here](../../../documents/meetings/2014-02-08-batey-symposium/)
+Materials &mdash; presentations and videos &mdash; have been posted. You can find them in the Documnets section [here](../../../documents/meetings/2014-02-08-batey-symposium/)
