@@ -16,6 +16,8 @@ Worcester, MA
 
 ## Videos and Presentations
 
+*nb - the presentations have not been posted yet, but they will be up soon*
+
 |                                Title                                 |         Presenter(s)          |                  |                                                     |
 |----------------------------------------------------------------------|-------------------------------|------------------|-----------------------------------------------------|
 | The Goals for Collaboration                                          | Lawrence Loh                  | [Presentation]() | [Video](http://youtu.be/5Ea75eJ3KdU)                |
@@ -40,5 +42,5 @@ Worcester, MA
 	- we will have single-topic teleconference discussions, starting in May 2014 with a presentation from the *Hypertension Working Group*
 - 2015 Batey Medicine Symposium
 	- the 2014 edition was such a success, we think it should be a regular event! We hope to see it grow and invite anyone and everyone to participate!
-	- if you are interesting in hosting, planning, or helping our in the development of this meeting just let us know!
+	- if you are interesting in hosting, planning, or helping out in the development of this meeting just let us know!
 	

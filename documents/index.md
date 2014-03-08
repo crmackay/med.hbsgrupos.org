@@ -11,11 +11,6 @@ title: Documents
 
 - Time and Date: To Be Announced
 
-*Medical Team Materials Working Group Meeting* 
-
-- Time and Date: To Be Announced
-
-
 ###General Meetings
 
 *Bi-monthly Conference Call Disuccussions*...starting May 2014
