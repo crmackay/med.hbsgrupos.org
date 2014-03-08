@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Symposium Report
-author: Lawerence Loh
+author: Lawrence Loh
 comments: true
 categories: update meeting symposium
 ---
