@@ -16,8 +16,6 @@ Worcester, MA
 
 ## Videos and Presentations
 
-*nb - the presentations have not been posted yet, but they will be up soon*
-
 |                                Title                                 |         Presenter(s)          |                                                     |
 |----------------------------------------------------------------------|-------------------------------|-----------------------------------------------------|
 | The Goals for Collaboration                                          | Lawrence Loh                  | [Video](http://youtu.be/5Ea75eJ3KdU)                |
