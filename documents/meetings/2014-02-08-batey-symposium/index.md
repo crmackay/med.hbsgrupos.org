@@ -19,18 +19,18 @@ Worcester, MA
 *nb - the presentations have not been posted yet, but they will be up soon*
 
 |                                Title                                 |         Presenter(s)          |                  |                                                     |
-|----------------------------------------------------------------------|-------------------------------|------------------|-----------------------------------------------------|
-| The Goals for Collaboration                                          | Lawrence Loh                  | [Presentation]() | [Video](http://youtu.be/5Ea75eJ3KdU)                |
-| Attendee Introductions                                               | ¡Everyone!                    | [Presentation]() | [Video](http://youtu.be/8r8_PFwz6Nw)                |
-| The Village Presbyterian Team Initiatives and Hypertension           | Al Biggs                      | [Presentation]() | [Video](http://www.youtube.com/watch?v=5fXkRB7HyJc) |
-| La Clínica de Familia in Downtown La Romana                          | Laura Baestcher               | [Presentation]() | [Video](http://www.youtube.com/watch?v=Woben4hpUL0) |
-| The Strategic Plan of Hospital el Buen Samaritano                    | Franklin Bido, Moises Sifren  | [Presentation]() | [Video](http://www.youtube.com/watch?v=IXAIqMzQCZY) |
-| Medicines for Humanities projects in the DR                          | Amelia Brandt                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=Da6a-_olwZY) |
-| Medical Students for Haiti                                           | Victoria Winslow              | [Presentation]() | [Video](http://youtu.be/mlsXZvwc8N4)                |
-| Hypertension on the Bateys                                           | Tammy Kear                    | [Presentation]() | [Video](http://www.youtube.com/watch?v=vffp-Kk70xY) |
-| A Long-Term Perspective                                              | Chris Russell, Brendan Wong   | [Presentation]() | [Video](http://www.youtube.com/watch?v=FmIDwWMmI1o) |
-| UTMB - Collaborating to strengthen community-based research capacity | Matthew Dacso                 | [Presentation]() | [Video](http://www.youtube.com/watch?v=1111FPA-ubU) |
-| Quality Improvement:  the Batey-to-Hospital Referral Process         | Caitlin Fogarty               | [Presentation]() | [Video](http://www.youtube.com/watch?v=-Z13J-eolJI) |
+|----------------------------------------------------------------------|-------------------------------|-----------------------------------------------------|
+| The Goals for Collaboration                                          | Lawrence Loh                  | [Video](http://youtu.be/5Ea75eJ3KdU)                |
+| Attendee Introductions                                               | ¡Everyone!                    | [Video](http://youtu.be/8r8_PFwz6Nw)                |
+| The Village Presbyterian Team Initiatives and Hypertension           | Al Biggs                      | [Video](http://www.youtube.com/watch?v=5fXkRB7HyJc) |
+| La Clínica de Familia in Downtown La Romana                          | Laura Baestcher               | [Video](http://www.youtube.com/watch?v=Woben4hpUL0) |
+| The Strategic Plan of Hospital el Buen Samaritano                    | Franklin Bido, Moises Sifren  | [Video](http://www.youtube.com/watch?v=IXAIqMzQCZY) |
+| Medicines for Humanities projects in the DR                          | Amelia Brandt                 | [Video](http://www.youtube.com/watch?v=Da6a-_olwZY) |
+| Medical Students for Haiti                                           | Victoria Winslow              | [Video](http://youtu.be/mlsXZvwc8N4)                |
+| Hypertension on the Bateys                                           | Tammy Kear                    | [Video](http://www.youtube.com/watch?v=vffp-Kk70xY) |
+| A Long-Term Perspective                                              | Chris Russell, Brendan Wong   | [Video](http://www.youtube.com/watch?v=FmIDwWMmI1o) |
+| UTMB - Collaborating to strengthen community-based research capacity | Matthew Dacso                 | [Video](http://www.youtube.com/watch?v=1111FPA-ubU) |
+| Quality Improvement:  the Batey-to-Hospital Referral Process         | Caitlin Fogarty               | [Video](http://www.youtube.com/watch?v=-Z13J-eolJI) |
 
 ## Plans and Next Steps:
 
