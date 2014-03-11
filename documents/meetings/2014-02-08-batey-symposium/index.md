@@ -21,7 +21,7 @@ Worcester, MA
 | The Goals for Collaboration                                          | Lawrence Loh                  | [Video](http://youtu.be/5Ea75eJ3KdU)                |
 | Attendee Introductions                                               | ¡Everyone!                    | [Video](http://youtu.be/8r8_PFwz6Nw)                |
 | The Village Presbyterian Team Initiatives and Hypertension           | Al Biggs                      | [Video](http://www.youtube.com/watch?v=5fXkRB7HyJc) |
-| La Clínica de Familia in Downtown La Romana                          | Laura Baestcher               | [Video]()                                           |
+| La Clínica de Familia in Downtown La Romana                          | Laura Baestcher               | [Video](http://youtu.be/Woben4hpUL0)                                           |
 | The Strategic Plan of Hospital el Buen Samaritano                    | Franklin Bido, Moises Sifren  | [Video](http://www.youtube.com/watch?v=IXAIqMzQCZY) |
 | Medicines for Humanities projects in the DR                          | Amelia Brandt                 | [Video](http://www.youtube.com/watch?v=Da6a-_olwZY) |
 | Medical Students for Haiti                                           | Victoria Winslow              | [Video](http://youtu.be/mlsXZvwc8N4)                |
