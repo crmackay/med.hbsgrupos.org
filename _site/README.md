@@ -6,3 +6,9 @@ Any ideas for hbsgrupos.org and other affiliated domains are welcome as well!
 
 Message me if you are interested in working on this!
 
+
+##To Do List
+
+- [  ] - add RSS feed
+- [  ] - add Spanish language pages, and a toggle button for english vs spanish
+- [  ] - add list of teams and pages
