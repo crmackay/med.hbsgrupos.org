@@ -12,3 +12,4 @@ Message me if you are interested in working on this!
 - [  ] - add RSS feed
 - [  ] - add Spanish language pages, and a toggle button for english vs spanish
 - [  ] - add list of teams and pages
+- [  ] - add a "contact us" email address
