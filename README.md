@@ -13,3 +13,4 @@ Message me if you are interested in working on this!
 - [  ] - add Spanish language pages, and a toggle button for english vs spanish
 - [  ] - add list of teams and pages
 - [  ] - add a "contact us" email address
+- [  ] - add Table of Contents to *Updates* via [this](https://github.com/ghiculescu/jekyll-table-of-contents)
