@@ -1,1 +1,3 @@
 baseurl: http://med.hbsgrupos.org
+
+markdown: kramdown
