@@ -6,4 +6,4 @@ title: Goals
 
 We invite anyone interested to join our always growing collaborative effort.
 
-To join sign-up for our email list at [lists.hbsgrupos.org](http://lists.hbsgrupos.org)
+To join sign-up for our email list at [lists.hbsgrupos.org](http://lists.hbsgrupos.org/listinfo.cgi/medcollab-hbsgrupos.org)
