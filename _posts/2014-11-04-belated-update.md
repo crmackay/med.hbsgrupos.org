@@ -32,9 +32,9 @@ comments: true
 
 Want to join in:
 
-- If you would like to join our email list visit the *join* page above
-- If you would like to comment, feel free to start a discussion below.
-- If you have an update you would like to see published here, just got to the home page [med.hbsgrupos.org](http://med.hbsgrupos.org) and click *add my update*
+- Join our email list by visiting the *join* page above
+- Comment on this post via the comment section below.
+- Have an update you would like to see published here? Just got to the home page [med.hbsgrupos.org](http://med.hbsgrupos.org) and click *add my update*
 
 
 
