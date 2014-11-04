@@ -31,6 +31,7 @@ comments: true
 >Lawrence
 
 Want to join in:
+
 - If you would like to join our email list visit the *join* page above
 - If you would like to comment, feel free to start a discussion below.
 - If you have an update you would like to see published here, just got to the home page [med.hbsgrupos.org](http://med.hbsgrupos.org) and click *add my update*
