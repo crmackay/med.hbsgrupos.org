@@ -6,8 +6,9 @@ author: Chris MacKay
 comments: true
 ---
 
-# Updates: as posted by Dr. Lawrence Loh to the [MedCollab](http://lists.hbsgrupos.org/listinfo.cgi/medcollab-hbsgrupos.org)
+## Updates: as posted by Dr. Lawrence Loh to the [MedCollab](http://lists.hbsgrupos.org/listinfo.cgi/medcollab-hbsgrupos.org) email list
 
+"
 Dear friends - 
 
 How time flies. Can't believe that it is now almost a year since our initial meeting at Worcester in February last year. In the intervening time we have seen more groups in and out of La Romana - our own group visiting in August this year. We have had many successes in 2014, including:
@@ -29,3 +30,4 @@ Welcome thoughts from folks.
 Best,
 Lawrence
 
+"
