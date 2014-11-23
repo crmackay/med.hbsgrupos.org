@@ -8,12 +8,12 @@ comments: true
 
 # SAVE THE DATE
 
-Please join us January 22-24th in Worcester, MA for a meeting aimed 
+Please join us January 24th & 25th in Worcester, MA for a meeting aimed 
 at helping us better serve the people of the bateyes in and around La Romana.
             
 ### Details:
 
-- **When:** January 23-24, 2015
+- **When:** January 24th & 25th, 2015
 - **Where:** Worcester, MA (more details below)
 - **Why:** the meeting will focus on building upon the ideas 
 and discussions of the past year and pushing them forward into tangible 
