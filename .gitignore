@@ -40,3 +40,7 @@ nosetests.xml
 
 # OSX
 .DS_Store
+
+# Jekyll
+
+_site
