@@ -26,7 +26,7 @@ comments: true
 | 16:00      | Small Group Discussion Session Debriefs and Reports       |
 | 17:00      | "Where do we go from here?"                 |
 | 18:00      | stop for the day                            |
-| 19:00      | Dinner off campus                           |
+| 18:15      | Dinner off campus                           |
 
 
 ## Sunday 25 January 2015
