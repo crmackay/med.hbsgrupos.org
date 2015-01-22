@@ -9,7 +9,7 @@ categories: update meeting materials symposium
 
 # Batey Medicine Symposium 2015
 
-24,25-Jan-2015
+January 24th & 25th, 2015
 University of Massachusetts Medical School
 Worcester, MA
 
