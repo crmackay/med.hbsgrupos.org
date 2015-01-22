@@ -1,0 +1,34 @@
+---
+published: true
+layout: page
+title: 2015 Batey Medicine Symposium Materials
+author: Chris MacKay
+comments: true
+categories: update meeting materials symposium
+---
+
+# Batey Medicine Symposium 2015
+
+24,25-Jan-2015
+University of Massachusetts Medical School
+Worcester, MA
+
+
+## Getting Here
+
+- [**MAP and DIRECTIONS**](2015-symposium-map.png)
+
+- [Directions to campus](http://www.umassmed.edu/about/directions/)
+
+- Address: 55 Lake Ave, Worcester, MA 01655
+
+## Agenda
+
+See the [tentative agenda](http://med.hbsgrupos.org/2015/01/14/tentative-agenda-for-2015-batey-symposium.html)
+
+## Meeting notes
+
+Coming soon...
+
+<h4>Questions?</h4>
+<p>please email us at <a href="mailto:drmedmission@gmail.com">drmedmission@gmail.com</a></p>
