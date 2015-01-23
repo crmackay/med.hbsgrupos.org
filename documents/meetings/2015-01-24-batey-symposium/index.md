@@ -24,6 +24,11 @@ Worcester, MA
         <strong>La reunión occurirá </strong> , a pesar de la posibilidad de nieve.
 </div>
 
+## Join us Virtually:
+
+- click the link below, join as a "Guest" and enter your name
+- Here is the link: [http://onlinetraining.umassmed.edu/laromana](http://onlinetraining.umassmed.edu/laromana)
+
 ## Getting Here
 
 - Room: S1-608 (Medical School Building, first floor)
