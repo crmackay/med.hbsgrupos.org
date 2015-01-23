@@ -26,15 +26,43 @@ Worcester, MA
 
 ## Getting Here
 
+- Room: S1-608 (Medical School Building, first floor)
+- Address: 55 Lake Ave, Worcester, MA 01655
+
 - [**CAMPUS MAP, PARKING, and DIRECTIONS to the ROOM**](2015-symposium-map.png)
 
 - [Directions to campus](http://www.umassmed.edu/about/directions/)
 
-- Address: 55 Lake Ave, Worcester, MA 01655
-
 ## Agenda
 
-See the [tentative agenda](http://med.hbsgrupos.org/2015/01/14/tentative-agenda-for-2015-batey-symposium.html)
+### Saturday, January 24th:
+
+| Time (EST) |                                             |
+|------------|---------------------------------------------|
+| 8:30       | Breakfast & Registration                    |
+| 9:00       | Welcome and Opening Remarks                 |
+| 9:30       | Rapid Updates from Groups                   |
+| 10:30      | Coffee Break                                |
+| 10:45      | Population Health Presentation              |
+| 11:15      | Introduction to the Batey Health Coalition  |
+| 11:45      | Overview of Small Group Discussion Sessions |
+| 12:00      | Lunch                                       |
+| 13:00      | Collaboration Talk                          |
+| 13:30      | Assignment to Small Group Discussion Sessions|
+| 14:30      | Coffee Break                                |
+| 16:00      | Small Group Discussion Session Debriefs and Reports       |
+| 17:00      | "Where do we go from here?"                 |
+| 18:00      | stop for the day                            |
+| 18:15      | Dinner off campus [Volturno](http://www.volturnopizza.com/)      |
+
+### Sunday, January 25th:
+
+| Time (EST) |                                          |
+|------------|------------------------------------------|
+| 9:00       | Breakfast                                |
+| 9:15       | Implementation and Next Steps Discussion |
+| 11:00      | Flex Time                                |
+| 12:00      | END                                      |
 
 ## Meeting notes
 
