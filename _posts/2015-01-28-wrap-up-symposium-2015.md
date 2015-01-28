@@ -32,6 +32,6 @@ Below are a number of items I would like to bring to your attention:
 
 ### Things to Look Forward To:
 
-Videos and presentations from the symposium will be posted on this website at [http://med.hbsgrupos.org/documents/meetings/2015-01-24-batey-symposium/]() over the next week for those who missed any of them, or for those who want to re-watch some of the sessions. As we move forward on our initiatives other resources will also be posted to this website as well.
+Videos and presentations from the symposium will be posted on this website at [http://med.hbsgrupos.org/documents/meetings/2015-01-24-batey-symposium/](documents/meetings/2015-01-24-batey-symposium/) over the next week for those who missed any of them, or for those who want to re-watch some of the sessions. As we move forward on our initiatives other resources will also be posted to this website as well.
 
 If you have ideas about the website, what should be posted here or suggestions on how to make it better just let me know (any and all ideas are welcome!)
