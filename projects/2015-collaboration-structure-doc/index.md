@@ -14,7 +14,7 @@ see the [brainstorming notes](https://hackpad.com/Discussion-Topics-BqwgA0FcPY9)
 
 we are still at the brainstorming phase, but please feel free to provide your comments or input in whatever way you choose (including in the comments section at the bottom of the page if that is easiest)
 
-See the [current draft](https://docs.google.com/document/d/1ELBZhCJ1DAR0touh8bcq_YuZb43YZzX0l31zbeQ4SB4/edit?usp=sharing)
+See the [current draft](https://docs.google.com/document/d/170IcpcGa7As8-ckTQM7We6XIXJ8CCZYRKI-pMWCo2nw/edit?usp=sharing)
 
 
 ## Want to Join:
