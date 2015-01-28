@@ -1,5 +1,7 @@
 body {
   		padding-top:70px;
+  		background-image: url("/assets/pics/background.jpg");
+  		background-attachment: fixed;
   	}
 a .panel {
   		color: black;
@@ -51,4 +53,17 @@ table > tbody + tbody {
 }
 table .table {
   background-color: #fff;
+}
+
+.col-md-8, .col-md-3 {
+    background-color: #ffffff;
+    opacity: 0.95;
+    filter: alpha(opacity=95); /* For IE8 and earlier */
+    border-radius: 4px;
+}
+
+.panel {
+    background-color: #ffffff;
+    opacity: 0.95;
+    filter: alpha(opacity=95); /* For IE8 and earlier */
 }

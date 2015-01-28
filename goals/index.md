@@ -4,4 +4,6 @@ title: Goals
 ---
 #Collaboration Goals
 
-Coming Soon&hellip;
+We're developing these goals now!
+
+If you want to join the discussion visit the *ongoing projects* page
