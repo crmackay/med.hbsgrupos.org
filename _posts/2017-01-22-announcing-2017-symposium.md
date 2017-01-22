@@ -5,6 +5,7 @@ title: Symposium 2017, Announcement
 author: Chris MacKay
 comments: true
 ---
+It is our pleasure to announce the date and location of the 2017 HBS Med Collaboration Symposium: 
 
 ## Date:
 
