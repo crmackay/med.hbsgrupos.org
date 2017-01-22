@@ -2,7 +2,7 @@
 layout: default
 title: Goals
 ---
-#Collaboration Goals
+# Collaboration Goals
 
 We're developing these goals now!
 
