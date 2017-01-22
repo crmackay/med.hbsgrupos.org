@@ -16,7 +16,7 @@ It is our pleasure to announce the date and location of the 2017 HBS Med Collabo
 University of Massachusetts Medical School <br/>
 Worcester, MA, USA
 
-More details will be found on the sympsoium page here: [28 Abril 2017 Meeting Page](meetings/2017-04-28-batey-symposium/)
+More details will be found on the sympsoium page here: [28 Abril 2017 Meeting Page](../../../documents/meetings/2017-04-28-batey-symposium/)
 
 <!---
 On behalf of the meeting organizers I wanted to thank everyone who took the time (and braved the snow!) to join us either in person or by the internet for a very productive and important meeting. The goal first and foremost of this meeting was to foster increased communication, and I think we have very much achieved that goal!
