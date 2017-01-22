@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Symposium 2017, Announcement
 author: Chris MacKay
