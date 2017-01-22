@@ -11,7 +11,7 @@ title: 2017 Batey Symposium Page
 
 ## Location
 
-University of Massachusetts Medical School <br\>
+University of Massachusetts Medical School <br/>
 Worcester, MA
 
 more details coming soon...
