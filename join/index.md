@@ -2,7 +2,7 @@
 layout: default
 title: Goals
 ---
-#Join the Collaboration!
+# Join the Collaboration!
 
 We invite anyone interested to join our always growing collaborative effort.
 
