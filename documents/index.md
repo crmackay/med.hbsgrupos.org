@@ -6,7 +6,7 @@ comments: true
 
 ### Upcoming Meetings:
 
-1. an upcoming teleconference to discuss the joint mission/vision/values document will be announced in the next few weeks  
+1. 2017 Batey Symposium- 28 April 2017 (more details to come...)
 
 ### General Meetings:
 
