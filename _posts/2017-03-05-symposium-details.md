@@ -8,11 +8,11 @@ comments: true
 
 # SAVE THE DATE
 
-Please join us April 28th in Worcester, MA for the 5th annual Batey Medicine Symposium.
+Please join us April 29th in Worcester, MA for the 5th annual Batey Medicine Symposium.
 
 ### Details:
 
-- **When:** 28 April 2017
+- **When:** 29 April 2017
 - **Where:** Worcester, MA (more details below)
 - **Why:** the meeting will focus on building upon the ideas
 and discussions of the past year and pushing them forward into tangible
@@ -57,8 +57,5 @@ please email us at [drmedmission@gmail.com](mailto:drmedmission@gmail.com)
 
 It is our pleasure to announce the date and location of the 2017 HBS Med Collaboration Symposium:
 
-## Date:
 
-28 April 2017
-
-More details will be found on the sympsoium page here: [28 Abril 2017 Meeting Page](../../../documents/meetings/2017-04-28-batey-symposium/)
+More details will be found on the sympsoium page here: [29 Abril 2017 Meeting Page](../../../documents/meetings/2017-04-29-batey-symposium/)

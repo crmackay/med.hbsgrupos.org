@@ -15,7 +15,7 @@ categories: update meeting materials symposium
 
 ## Date & Time
 
-28 April 2017
+29 April 2017
 
 08:00 - 17:00 EDT
 
@@ -55,7 +55,8 @@ Please be prepared to pay $25 on the day of the event.
 ## Tentative Agenda
 
 This agenda is subject to change. If you are interested in presenting anything, or leading a discussion on a topic not included below, please include that in your RSVP or email one of the coordinators.
-### Saturday, January 24th:
+
+### Saturday, April 29th:
 
 | Time (EDT) |                                                                                                                                                                                             |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

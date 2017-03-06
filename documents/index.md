@@ -6,7 +6,7 @@ comments: true
 
 ### Upcoming Meetings:
 
-1. [2017 Batey Symposium- 28 April 2017](meetings/2017-04-28-batey-symposium/) (more details to come...)
+1. [2017 Batey Symposium- 29 April 2017](meetings/2017-04-29-batey-symposium/) (more details to come...)
 
 ### General Meetings:
 
@@ -16,4 +16,3 @@ comments: true
 
 
 ---
-

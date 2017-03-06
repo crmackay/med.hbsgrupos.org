@@ -5,18 +5,18 @@ title: Symposium 2017, Announcement
 author: Chris MacKay
 comments: true
 ---
-It is our pleasure to announce the date and location of the 2017 HBS Med Collaboration Symposium: 
+It is our pleasure to announce the date and location of the 2017 HBS Med Collaboration Symposium:
 
 ## Date:
 
-28 April 2017
+29 April 2017
 
 ## Where:
 
 University of Massachusetts Medical School <br/>
 Worcester, MA, USA
 
-More details will be found on the sympsoium page here: [28 Abril 2017 Meeting Page](../../../documents/meetings/2017-04-28-batey-symposium/)
+More details will be found on the sympsoium page here: [29 Abril 2017 Meeting Page](../../../documents/meetings/2017-04-29-batey-symposium/)
 
 <!---
 On behalf of the meeting organizers I wanted to thank everyone who took the time (and braved the snow!) to join us either in person or by the internet for a very productive and important meeting. The goal first and foremost of this meeting was to foster increased communication, and I think we have very much achieved that goal!
@@ -27,21 +27,21 @@ Below are a number of items I would like to bring to your attention:
 
 1. **Call for Volunteers!**
     We are working to solidify this collaborative effort, so we are asking for volunteers to help us draft two documents in the next 2 months:
-    1.  a document describing the vision, mission, values, partners, and roles of this collaborative effort. This will be done in close collaboration with the Buen Samaritano. 
+    1.  a document describing the vision, mission, values, partners, and roles of this collaborative effort. This will be done in close collaboration with the Buen Samaritano.
         - the page for this effort is [here](/projects/2015-mission-doc/).
     1. a proposal for the form that this collaboration will take going forward
           - the page for this effort is [here](/projects/2015-collaboration-structure-doc/)
-    
-    
+
+
     **Please email me if you are interested in being a part of these drafting discussions**: [crmackay@gmail.com](mailto:crmackay@gmail.com) (discussions will likely be conducted by email and teleconference).  
     - we plan to also incorporate critical input from our partners at the Buen Samaritano during this drafting process, and will not 'finalize' anything (in so much as we can finalize anything) without posting it here for consideration and comment.
-      
+
 
 1. Interested in being a part of the Pre-Conference Meeting in La Romana in March 2015?
     To start the ball rolling on a conference bringing together representatives from the many entities working in and around La Romana, a pre-conference meeting will be taking place in March 2015 in the Dominican Republic. If you are interested in being involved, please email Lawrence Loh at lawrence.c.loh@gmail.com
 
 1. Symposium 2016...Kansas City?
-    We are looking to have the next iteration of this meeting next year. Folks from Village Presbyterian Church just outside Kansas City will be investigating whether than can host next year. Keep an eye out for updates, and if you are interested in helping out just send me an email. 
+    We are looking to have the next iteration of this meeting next year. Folks from Village Presbyterian Church just outside Kansas City will be investigating whether than can host next year. Keep an eye out for updates, and if you are interested in helping out just send me an email.
 
 ### Things to Look Forward To:
 
