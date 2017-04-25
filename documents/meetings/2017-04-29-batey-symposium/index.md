@@ -68,11 +68,11 @@ This agenda is subject to change. If you are interested in presenting anything, 
 | **0800 - 0830**    | Breakfast                                                                                                                                    |
 | **0830 - 0900**    | *Introductions and general updates*                                                                                                            |
 |                    | each group in attendance can introduce themselves and present general updates on their projects                                              |
-| **0900 - 0945      | *Sandy Yan*                                                                                                                                    |
+| **0900 - 0945**      | *Sandy Yan*                                                                                                                                    |
 |                    | Education, Prevention & Protection                                                                                                           |
-| **0945 - 1015      | *Bob Beck* will discuss potential expansion into San Pedro                                                                                     |
-| **1015 - 1030      | Coffee break                                                                                                                                 |
-| **1030 - 1145      | *University of Toronto Students*                                                                                                                        |
+| **0945 - 1015**      | *Bob Beck* will discuss potential expansion into San Pedro                                                                                     |
+| **1015 - 1030**      | Coffee break                                                                                                                                 |
+| **1030 - 1145**      | *University of Toronto Students*                                                                                                                        |
 |                    | Volunteers in the bateyes: knowledge translation                                                                                             |
 |                    | University of Toronto describes recent knowledge translation trip and challenges                                                             |
 | **1145 - 1215**    | Lunch                                                                                                                                        |
