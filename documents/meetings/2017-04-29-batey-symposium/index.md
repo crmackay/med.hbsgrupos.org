@@ -9,10 +9,6 @@ categories: update meeting materials symposium
 
 # 2017 Batey Symposium Page
 
-## RSVP
-
-<a target="_blank" class="btn btn-primary btn-lg" href="https://goo.gl/forms/NRWRntfOFOwB3c0A3">Register Here!</a>
-
 ## Date & Time
 
 29 April 2017
