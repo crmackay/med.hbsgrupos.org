@@ -3,9 +3,31 @@ layout: default
 title: HBS Grupos Medical Collaboration Home Page
 ---
 
+<div class="row">
+    <div class="col-md-4">
+
+    <h2>Symposium Details</h2>
+
+    <div class="panel panel-default">
+
+		<div class="panel-body">
+    		<p>The 2017 Batey Symposium is taking place *this* Saturday in Worcester.</p>
+
+            <p>For more details, an updated agenda, and details on how to join online, visit the meeting page here:</p>
+            <a class="btn btn-primary btn-lg" href="documents/meetings/2017-04-29-batey-symposium/">
+                2017 Symposium Page
+            </a>
+
+  		</div>
+	</div>
+
+
+    </div>
+</div>
+
         <div class="row">
         	<div class="col-md-4">
-        
+
         <h2>
         	Updates:
         </h2>
@@ -14,7 +36,7 @@ title: HBS Grupos Medical Collaboration Home Page
 {% for post in site.posts %}
 	<a href="{{ post.url | remove_first:'/'}}">
 	<div class="panel panel-default">
-		
+
 		<div class="panel-heading">
 			<strong class="panel-title">
 				{{ post.title }}
@@ -24,13 +46,12 @@ title: HBS Grupos Medical Collaboration Home Page
 		<div class="panel-body">
 		<p>
 			{{post.excerpt|strip_html}}
-			
+
 			<br />
-			
+
 			&hellip; <em>read more</em>
 		</p>
   		</div>
-	</div> 
+	</div>
 	</a>
 {% endfor %}
-  

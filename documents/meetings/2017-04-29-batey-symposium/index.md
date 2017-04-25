@@ -19,12 +19,19 @@ categories: update meeting materials symposium
 
 08:00 - 17:00 EDT
 
+## Can't come in person? Join us Virtually!:
+
+visit [our online meeting room](https://onlinetraining.umassmed.edu/batey-symposium/)
+
+You can watch the presentations, listen to the discussions, and even join via text chat or video chat if you want!
+
+
 ## Location
 
 University of Massachusetts Medical School <br/>
 Worcester, MA
 
-Room: Amphitheater 2 (Medical School Building, third floor) (see map below)
+Room: Amphitheater 3 (Medical School Building, third floor) (coming soon)
 
 ## Getting Here
 
@@ -33,6 +40,8 @@ Address: 55 Lake Ave, Worcester, MA 01655
 [Directions to campus](http://www.umassmed.edu/about/directions/)
 
 Parking information and more details on how to get to the room will be posted soon.
+
+
 
 ## Food
 
@@ -58,29 +67,39 @@ This agenda is subject to change. If you are interested in presenting anything, 
 
 ### Saturday, April 29th:
 
-| Time (EDT) |                                                                                                                                                                                             |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       0800 | Breafast                                                                                                                                                                                    |
-|       0830 | Introductions and general updates <br /> - each group in attendance can introduce themselves and present general updates on their projects                                                  |
-|       0930 | Collaboration: the next phase<br /> - Dicsucssion around collaboration plans, challenges in the driving forward, and opportunities (e.g. COSAC)                                             |
-|       1030 | Coffee Break                                                                                                                                                                                |
-|       1045 | Attendee Presentation (TBD)<br /> - if interested please indicate so on the RSVP form                                                                                                       |
-|       1130 | Volunteers in the bateyes: knowledge translation<br /> - University of Toronto describes recent knowledge translation trip and challenges                                                   |
-|       1230 | Lunch                                                                                                                                                                                       |
-|       1300 | Expansion into San Pedro<br /> - Bob Beck will discuss potential expansion into San Pedro                                                                                                   |
-|       1400 | Coffee Break                                                                                                                                                                                |
-|       1415 | State of collaboration and a way forward (discussion)<br /> - What is working to date? What should we do next?                                                                              |
-|       1600 | Next Steps and Symposium 2018<br /> - Discussion around Symposium 2018, La Romana, and next steps for collaboration<br /> - plans for  transition as 53rd Week swaps out of leadership role |
-|       1730 | Dinner and Drinks at a nearby restaurant (TBA)            
+|   Time (EDT)   |                                                                                                                                              |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **0800 - 0830**    | Breakfast                                                                                                                                    |
+| **0830 - 0900**    | *Introductions and general updates*                                                                                                            |
+|                    | each group in attendance can introduce themselves and present general updates on their projects                                              |
+| **0900 - 0945      | *Sandy Yan*                                                                                                                                    |
+|                    | Education, Prevention & Protection                                                                                                           |
+| **0945 - 1015      | *Bob Beck* will discuss potential expansion into San Pedro                                                                                     |
+| **1015 - 1030      | Coffee break                                                                                                                                 |
+| **1030 - 1145      | *University of Toronto Students*                                                                                                                        |
+|                    | Volunteers in the bateyes: knowledge translation                                                                                             |
+|                    | University of Toronto describes recent knowledge translation trip and challenges                                                             |
+| **1145 - 1215**    | Lunch                                                                                                                                        |
+| **1215 - 1330**    | *Steve Stiles, Genevieve, & Tammy*                                                                                                          |
+|                    | HTN and Education                                                                                                                            |
+| **1330 - 1415**    | *Rick North*                                                                                                                                   |
+|                    | Collaboration: the next phase                                                                                                                |
+|                    | Discussion around collaboration plans, challenges in the driving forward, and opportunities                                                  |
+|                    | (e.g. COSACO)                                                                                                                                |
+| **1415 - 1430**    | Coffee Break                                                                                                                                 |
+| **1430 - 1600**    | *State of collaboration and a way forward* (discussion)                                                                                        |
+|                    | What is working to date? What should we do next?                                                                                             |
+| **1600 - 1700**    | *Next Steps and Symposium 2018*                                                                                                              |
+|                    | Discussion around Symposium 2018, La Romana, and next steps for collaboration plans for transition as 53rd Week swaps out of leadership role |
+| **1800**           | Dinner and Drinks at a nearby restaurant                                                                                                     |
+|                | British Beer Company                                                                                                                         |
+|                | Shrewsbury Street, Worcester                                                                                                                 |
 
 ## Meeting notes
 
 Notes will be posted online as they become available...
 
-## Can't come in person? Join us Virtually!:
 
-Check back here as the day of the symposium gets closer for more details on how to join.
+## Contact Us
 
-## RSVP
-
-<a target="_blank" class="btn btn-primary btn-lg" href="https://goo.gl/forms/NRWRntfOFOwB3c0A3">Register Here!</a>
+If you have any questions or problems just email [Maureen Ogamba](mailto:Maureen.Ogamba@umassmed.edu) or [Chris MacKay](mailto:christopher.mackay@umassmed.edu)
