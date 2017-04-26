@@ -66,18 +66,18 @@ This agenda is subject to change. If you are interested in presenting anything, 
 |   Time (EDT)   |                                                                                                                                              |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | **0800 - 0830**    | Breakfast                                                                                                                                    |
-| **0830 - 0900**    | *Introductions and general updates*</br>each group in attendance can introduce themselves and</br>present general updates on their projects    |
-| **0900 - 0945**      | *Sandy Yan*</br>Education, Prevention & Protection                                                                          |
+| **0830 - 0900**    | *Introductions and general updates*<br/>each group in attendance can introduce themselves and<br/>present general updates on their projects    |
+| **0900 - 0945**      | *Sandy Yan*<br/>Education, Prevention & Protection                                                                          |
 | **1015 - 1030**      | Coffee break                                                                                                                                 |
-| **1030 - 1145**      | *University of Toronto Students*</br>Volunteers in the bateyes: knowledge translation</br>University of Toronto describes recent knowledge translation trip and challenges            |
+| **1030 - 1145**      | *University of Toronto Students*<br/>Volunteers in the bateyes: knowledge translation<br/>University of Toronto describes recent knowledge translation trip and challenges            |
 |                    | University of Toronto describes recent knowledge translation trip and challenges                                                             |
 | **1145 - 1215**    | Lunch                                                                                                                                        |
-| **1215 - 1330**    | *Steve Stiles, Genevieve, & Tammy*</br>HTN and Education                                                                                              |
-| **1330 - 1415**    | *Rick North*</br>Collaboration: the next phase</br>Discussion around collaboration plans, challenges in the driving forward,</br>and opportunities</br>(e.g. COSACO)    |                                                                                                          |
+| **1215 - 1330**    | *Steve Stiles, Genevieve, & Tammy*<br/>HTN and Education                                                                                              |
+| **1330 - 1415**    | *Rick North*<br/>Collaboration: the next phase<br/>Discussion around collaboration plans, challenges in the driving forward,<br/>and opportunities<br/>(e.g. COSACO)    |                                                                                                          |
 | **1415 - 1430**    | Coffee Break                                                                                                                                 |
-| **1430 - 1600**    | *State of collaboration and a way forward*</br>Discussion on what is working to date?</br>What should we do next?                      |
-| **1600 - 1700**    | *Next Steps and Symposium 2018*</br>Discussion around Symposium 2018</br>La Romana, and next steps for collaboration plans for</br>transition as 53rd Week swaps out of leadership role        |
-| **1800**           | Dinner and Drinks at a nearby restaurant</br>British Beer Company</br>Shrewsbury Street, Worcester                                                                                             |                                                                                                                |
+| **1430 - 1600**    | *State of collaboration and a way forward*<br/>Discussion on what is working to date?<br/>What should we do next?                      |
+| **1600 - 1700**    | *Next Steps and Symposium 2018*<br/>Discussion around Symposium 2018<br/>La Romana, and next steps for collaboration plans for<br/>transition as 53rd Week swaps out of leadership role        |
+| **1800**           | Dinner and Drinks at a nearby restaurant<br/>British Beer Company<br/>Shrewsbury Street, Worcester                                                                                             |                                                                                                                |
 
 ## Meeting notes
 
