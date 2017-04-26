@@ -28,7 +28,9 @@ University of Massachusetts Medical School <br/>
 Worcester, MA
 
 Room: Amphitheater 3 <br />
-(Medical School Building, 6th floor) (map coming soon)
+(Medical School Building, 6th floor)
+
+<strong><a href="UMMS_Campus_Map_2017.pdf">Here is a MAP</a></strong>
 
 ## Getting Here
 
