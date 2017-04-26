@@ -69,7 +69,7 @@ This agenda is subject to change. If you are interested in presenting anything, 
 | **1015 to 1030**      | Coffee break                                                                                                                               |
 | **1030 to 1145**      | *University of Toronto*<br/>Volunteers in the bateyes: knowledge translation<br/>recent knowledge translation trip and challenges          |
 | **1145 to 1215**    | Lunch                                                                                                                                        |
-| **1215 to 1330**    | *Genevieve Maliszewski*<br/>Health Education Initiatives in the DR:<br/>2017 Update and New Direction<br/>*Tammie Conley*<br/>Hypertension Management|
+| **1215 to 1330**    | *Genevieve Maliszewski*<br/>Health Education Initiatives in the DR:<br/>2017 Update and New Direction<br/>*Tammie Conley*<br/>Addressing Hypertension in Rural Bateyes of the Dominican|
 | **1330 to 1415**    | *Rick North*<br/>Where to From Here|
 | **1415 to 1430**    | Coffee Break                                                                                                                                 |
 | **1430 to 1600**    | *State of collaboration and a way forward*<br/>Discussion on what is working to date?<br/>What should we do next?<br/>Collaboration: the next phase<br>Discussion around collaboration plans,<br/>challenges in the driving forward, and opportunities<br/>(e.g. COSACO) |
