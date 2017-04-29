@@ -85,7 +85,7 @@ This agenda is subject to change. If you are interested in presenting anything, 
 
 
 
-Live notes are available here: [https://paper.dropbox.com/doc/Untitled-uhvzRBjDc74KwQxfKi7vd](https://paper.dropbox.com/doc/Untitled-uhvzRBjDc74KwQxfKi7vd)
+Live notes are available here: [https://docs.google.com/document/d/1P6cU8myUtJiobxjKvN4LLXynlgKAbpRjLFb2Ro3cqe4/edit?usp=sharing](https://docs.google.com/document/d/1P6cU8myUtJiobxjKvN4LLXynlgKAbpRjLFb2Ro3cqe4/edit?usp=sharing)
 
 
 ## Contact Us
