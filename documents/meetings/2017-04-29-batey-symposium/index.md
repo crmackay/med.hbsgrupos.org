@@ -76,7 +76,7 @@ This agenda is subject to change. If you are interested in presenting anything, 
 | **1415 to 1430**    | Coffee Break                                                                                                                                 |
 | **1430 to 1600**    | *State of collaboration and a way forward*<br/>Discussion on what is working to date?<br/>What should we do next?<br/>Collaboration: the next phase<br>Discussion around collaboration plans,<br/>challenges in the driving forward, and opportunities<br/>(e.g. COSACO) |
 | **1600 to 1700**    | *Next Steps and Symposium 2018*<br/>Discussion around Symposium 2018<br/>La Romana, and next steps for collaboration plans for<br/>transition as 53rd Week swaps out of leadership role        |
-| **1800**           | Dinner and Drinks at a nearby restaurant<br/>British Beer Company<br/>Shrewsbury Street, Worcester                                                                                             |                                                                                                                |
+| **1800**           | Dinner and Drinks at a nearby restaurant<br/>Volturno Restaurant<br/>Shrewsbury Street, Worcester                                                                                             |                                                                                                                |
 
 
 
@@ -85,7 +85,7 @@ This agenda is subject to change. If you are interested in presenting anything, 
 
 
 
-Notes will be posted online as they become available...
+Live notes are available here: [https://paper.dropbox.com/doc/Untitled-uhvzRBjDc74KwQxfKi7vd](https://paper.dropbox.com/doc/Untitled-uhvzRBjDc74KwQxfKi7vd)
 
 
 ## Contact Us
